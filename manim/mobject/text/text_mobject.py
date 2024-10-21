@@ -74,7 +74,7 @@ from manim.mobject.types.vectorized_mobject import VGroup, VMobject
 from manim.utils.color import ManimColor, ParsableManimColor, color_gradient
 from manim.utils.deprecation import deprecated
 
-TEXT_MOB_SCALE_FACTOR = 0.05
+TEXT_MOB_SCALE_FACTOR = 0.005
 DEFAULT_LINE_SPACING_SCALE = 0.3
 TEXT2SVG_ADJUSTMENT_FACTOR = 4.8
 
